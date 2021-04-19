@@ -1,6 +1,6 @@
 # Student Loan Repayment Calculator 
 
-An excel / Google Sheets file to calculate best repayment method.
+An Excel / Google Sheets file to calculate best repayment method.
 
 Google Sheets: https://drive.google.com/file/d/1gC78-i_XgpNCqJicbeahkNq2cY7CGFj5/view?usp=sharing
 
