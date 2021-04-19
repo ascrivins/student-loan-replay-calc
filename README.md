@@ -1,10 +1,10 @@
 # Student Loan Repayment Calculator 
 
-An Excel / Google Sheets file to calculate best repayment method.
+An excel / Google Sheets file to calculate best repayment method.
 
 Google Sheets: https://drive.google.com/file/d/1gC78-i_XgpNCqJicbeahkNq2cY7CGFj5/view?usp=sharing
 
-Above Table Fields:
+## Above Table Fields:
 
  - **Starting Salary** - Your expected starting salary.
  - **Annual Pay Rise** - Pay increase by inflation, which the Bank of England targets at 2%. 
@@ -16,7 +16,14 @@ Above Table Fields:
  - **Min Salary Interest & Max Salary Interest** - These are the earnings thresholds for interest values.
 	 - These change every year so follow the link to find up-to-date values.
 
-Below Table Fields:
+## Big Table
+This shows a breakdown, year-by-year of how much is taken from your salary, interest and any additional payments you simulate. 
+
+These are approx. values to give an idea of the best method to take and if you should be making additional payments each month/year.
+
+After 30 years, any remaining debt is written off. 
+
+## Below Table Fields:
 
  - **Debt Paid Off / Written Off** - Indicator of Result
  - **Total** - This is the total amount you will pay towards your loan and how much interest you accumulate. 
